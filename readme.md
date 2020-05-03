@@ -12,7 +12,7 @@
 ## Код
 
 ```java
-    public class Main {
+public class Main {
     public static void main(String[] args) {
 
         long ticket_price = 1526241; //Цена билета в копейках
@@ -22,5 +22,5 @@
         System.out.printf("Миль начислено: %d", miles_count);
 
     }
-}
+}   
 ```
